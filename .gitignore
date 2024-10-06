@@ -3,5 +3,6 @@
 .local
 .ipynb_checkpoints
 .config
+.DS_Store
 
 
